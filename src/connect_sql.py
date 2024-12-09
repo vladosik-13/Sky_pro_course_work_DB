@@ -2,6 +2,7 @@ import psycopg2
 from psycopg2 import sql
 from config import config
 
+
 def connection_to_data(vacancies_list):
     """
     Создание базы данных для хранения и полученных данных о
@@ -14,20 +15,22 @@ def connection_to_data(vacancies_list):
                 cur.execute("DROP TABLE IF EXISTS vacancies")
                 cur.execute("DROP TABLE IF EXISTS companies")
                 cur.execute(
-                    sql.SQL("CREATE TABLE companies ("
-                            "id SERIAL PRIMARY KEY,"
-                            "company_name VARCHAR(100))"
+                    sql.SQL(
+                        "CREATE TABLE companies ("
+                        "id SERIAL PRIMARY KEY,"
+                        "company_name VARCHAR(100))"
                     )
                 )
 
                 cur.execute(
-                    sql.SQL("CREATE TABLE vacancies ("
-                            "company_id INT REFERENCES companies(id),"
-                            "title VARCHAR(100),"
-                            "city VARCHAR(50),"
-                            "salary_from INT,"
-                            "salary_to INT,"
-                            "link VARCHAR(100))"
+                    sql.SQL(
+                        "CREATE TABLE vacancies ("
+                        "company_id INT REFERENCES companies(id),"
+                        "title VARCHAR(100),"
+                        "city VARCHAR(50),"
+                        "salary_from INT,"
+                        "salary_to INT,"
+                        "link VARCHAR(100))"
                     )
                 )
 
@@ -39,8 +42,10 @@ def connection_to_data(vacancies_list):
                     vacancies = company_dict.get(company_name, [])
                     id_company += 1
                     cur.execute(
-                        sql.SQL("INSERT INTO companies (company_name) VALUES (%s) RETURNING id"),
-                        (company_name,)
+                        sql.SQL(
+                            "INSERT INTO companies (company_name) VALUES (%s) RETURNING id"
+                        ),
+                        (company_name,),
                     )
                     company_id = cur.fetchone()[0]
 
@@ -52,9 +57,11 @@ def connection_to_data(vacancies_list):
                         link = vacancy.get("link", "")
 
                         cur.execute(
-                            sql.SQL("INSERT INTO vacancies (company_id, title, city, salary_from, salary_to, link)"
-                                    " VALUES (%s, %s, %s, %s, %s, %s) RETURNING *"),
-                            (company_id, title, city, salary_from, salary_to, link)
+                            sql.SQL(
+                                "INSERT INTO vacancies (company_id, title, city, salary_from, salary_to, link)"
+                                " VALUES (%s, %s, %s, %s, %s, %s) RETURNING *"
+                            ),
+                            (company_id, title, city, salary_from, salary_to, link),
                         )
 
                 conn.commit()

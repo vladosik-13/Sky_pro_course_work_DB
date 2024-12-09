@@ -1,6 +1,5 @@
 from connect_sql import connection_to_data
-from utils import (collecting_vacancies, creating_dictionary_list, get_print,
-                   saver_json)
+from utils import collecting_vacancies, creating_dictionary_list, get_print, saver_json
 
 if __name__ == "__main__":
     list_of_company = [

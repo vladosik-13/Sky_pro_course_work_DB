@@ -96,7 +96,7 @@ class DBManager:
                     "JOIN vacancies v ON c.id = v.company_id "
                     "WHERE v.title ILIKE %s;"
                 ),
-                [f"%{keyword}%"]
+                [f"%{keyword}%"],
             )
             return cur.fetchall()
 
