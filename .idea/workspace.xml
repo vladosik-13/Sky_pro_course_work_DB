@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a745b579-a31f-4dac-8cb6-279f808a1d0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="a745b579-a31f-4dac-8cb6-279f808a1d0f" name="Changes" comment="на всякий случай добавил файл .json для примера">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733768127319</updated>
       <workItem from="1733768131356" duration="2607000" />
+      <workItem from="1733770780364" duration="890000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -154,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733770232770</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="код подправлен линтерами">
+      <option name="closed" value="true" />
+      <created>1733771045270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733771045270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="на всякий случай добавил файл .json для примера">
+      <option name="closed" value="true" />
+      <created>1733771217754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733771217754</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +196,9 @@
     <MESSAGE value="реализован модуль json_saver_class.py c классом Saver, JSONSaver который служит для подключения к БД PostgreSQL и сохранения данных в json.файл" />
     <MESSAGE value="реализован модуль utils.py cо следующими функциями:&#10;- collecting_vacancies - для сбора вакансии по запросу от пользователя&#10;- creating_dictionary_list - для создания списка словарей по атрибутам&#10;- get_print - для вывода результата по запросу&#10;- saver_json - для записи списка в JSON" />
     <MESSAGE value="реализован модуль main.py. как точка входа в приложение" />
-    <option name="LAST_COMMIT_MESSAGE" value="реализован модуль main.py. как точка входа в приложение" />
+    <MESSAGE value="код подправлен линтерами" />
+    <MESSAGE value="на всякий случай добавил файл .json для примера" />
+    <option name="LAST_COMMIT_MESSAGE" value="на всякий случай добавил файл .json для примера" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Course_work_3_Data_Base$main.coverage" NAME="main Coverage Results" MODIFIED="1733770555923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
