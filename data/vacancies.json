@@ -1,0 +1,1616 @@
+[
+    {
+        "Яндекс": [
+            {
+                "id": "113157409",
+                "title": "Юрисконсульт в Финтех",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113157409?host=hh.ru"
+            },
+            {
+                "id": "113148569",
+                "title": "Бизнес-партнер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113148569?host=hh.ru"
+            },
+            {
+                "id": "112782724",
+                "title": "Менеджер по персоналу на участок больничных листов",
+                "city": "Москва",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112782724?host=hh.ru"
+            },
+            {
+                "id": "113031201",
+                "title": "Ведущий инженер региона в Санкт-Петербурге",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113031201?host=hh.ru"
+            },
+            {
+                "id": "113149302",
+                "title": "Менеджер по административно-хозяйственной деятельности",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113149302?host=hh.ru"
+            },
+            {
+                "id": "113163650",
+                "title": "HR-бизнес-партнёр в Маркет",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113163650?host=hh.ru"
+            },
+            {
+                "id": "112789652",
+                "title": "Менеджер IT-проектов в Кинопоиск",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112789652?host=hh.ru"
+            },
+            {
+                "id": "113146960",
+                "title": "Дизайнер продукта в Музыку",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113146960?host=hh.ru"
+            },
+            {
+                "id": "113146961",
+                "title": "Дизайнер продукта в Музыку",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113146961?host=hh.ru"
+            },
+            {
+                "id": "113280042",
+                "title": "C&B Аналитик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113280042?host=hh.ru"
+            },
+            {
+                "id": "113280154",
+                "title": "Финансовый аналитик (расходы на персонал)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113280154?host=hh.ru"
+            },
+            {
+                "id": "113148667",
+                "title": "IT-сорсер уровня junior",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113148667?host=hh.ru"
+            },
+            {
+                "id": "113267955",
+                "title": "Middle/Senior QA / Старший инженер по ручному тестированию бэкенда в Яндекс MBA",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113267955?host=hh.ru"
+            },
+            {
+                "id": "113270703",
+                "title": "Заместитель директора склада",
+                "city": "Алматы",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113270703?host=hh.ru"
+            },
+            {
+                "id": "113303750",
+                "title": "Менеджер по развитию бизнеса с ключевыми розничными клиентами DIY в Фабрику",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113303750?host=hh.ru"
+            },
+            {
+                "id": "112157018",
+                "title": "Специалист по документообороту",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112157018?host=hh.ru"
+            },
+            {
+                "id": "112157019",
+                "title": "Специалист по документообороту",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112157019?host=hh.ru"
+            },
+            {
+                "id": "113146551",
+                "title": "Менеджер проектов клиентского опыта",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113146551?host=hh.ru"
+            },
+            {
+                "id": "113011813",
+                "title": "Фидбек-менеджер в Яндекс Практикум",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113011813?host=hh.ru"
+            },
+            {
+                "id": "113188674",
+                "title": "Инженер пожарной безопасности",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113188674?host=hh.ru"
+            },
+            {
+                "id": "108811392",
+                "title": "Бизнес-ассистент",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/108811392?host=hh.ru"
+            },
+            {
+                "id": "112340379",
+                "title": "Менеджер образовательных проектов",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112340379?host=hh.ru"
+            },
+            {
+                "id": "113159810",
+                "title": "Специалист по складской логистике",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113159810?host=hh.ru"
+            },
+            {
+                "id": "113011974",
+                "title": "Менеджер проектов РСЯ",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113011974?host=hh.ru"
+            },
+            {
+                "id": "113144326",
+                "title": "Менеджер по административно-хозяйственной деятельности",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113144326?host=hh.ru"
+            },
+            {
+                "id": "113267002",
+                "title": "Менеджер по маркетингу в Плюс",
+                "city": "Алматы",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113267002?host=hh.ru"
+            },
+            {
+                "id": "113027003",
+                "title": "Специалист информационной безопасности",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 70000,
+                "link": "https://api.hh.ru/vacancies/113027003?host=hh.ru"
+            },
+            {
+                "id": "112872258",
+                "title": "Стажёр группы правовой поддержки контентных и медиасервисов",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112872258?host=hh.ru"
+            },
+            {
+                "id": "112792452",
+                "title": "Администратор проектов",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112792452?host=hh.ru"
+            },
+            {
+                "id": "113146552",
+                "title": "Менеджер проектов клиентского опыта",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113146552?host=hh.ru"
+            },
+            {
+                "id": "111434115",
+                "title": "Бизнес-ассистент / Event-менеджер в Яндекс Финтех",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111434115?host=hh.ru"
+            },
+            {
+                "id": "113157629",
+                "title": "Менеджер проектов в отдел информационной безопасности Яндекса",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113157629?host=hh.ru"
+            },
+            {
+                "id": "111308778",
+                "title": "Менеджер продукта",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111308778?host=hh.ru"
+            },
+            {
+                "id": "113000584",
+                "title": "Дизайнер презентаций",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113000584?host=hh.ru"
+            },
+            {
+                "id": "113157630",
+                "title": "Менеджер проектов в отдел информационной безопасности Яндекса",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113157630?host=hh.ru"
+            },
+            {
+                "id": "113044130",
+                "title": "Координатор в отдел кадров (офис)",
+                "city": "Москва",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113044130?host=hh.ru"
+            },
+            {
+                "id": "111210578",
+                "title": "Контент-менеджер в Яндекс Образование",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111210578?host=hh.ru"
+            },
+            {
+                "id": "112157021",
+                "title": "Специалист по документообороту",
+                "city": "Казань",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112157021?host=hh.ru"
+            },
+            {
+                "id": "113157296",
+                "title": "Специалист службы поддержки (со знанием узбекского и русского языков)",
+                "city": "Ургенч",
+                "salary_from": 4740000,
+                "salary_to": 6636000,
+                "link": "https://api.hh.ru/vacancies/113157296?host=hh.ru"
+            },
+            {
+                "id": "110633928",
+                "title": "Методист в Яндекс Практикум",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/110633928?host=hh.ru"
+            },
+            {
+                "id": "113156872",
+                "title": "Специалист службы поддержки (со знанием узбекского и русского языков)",
+                "city": "Нукус",
+                "salary_from": 4740000,
+                "salary_to": 6636000,
+                "link": "https://api.hh.ru/vacancies/113156872?host=hh.ru"
+            },
+            {
+                "id": "112846384",
+                "title": "QA-инженер в Яндекс Образование",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112846384?host=hh.ru"
+            },
+            {
+                "id": "111870102",
+                "title": "Аккаунт-менеджер в Яндекс.Путешествия",
+                "city": "Воронеж",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111870102?host=hh.ru"
+            },
+            {
+                "id": "113310617",
+                "title": "Специалист поддержки найма",
+                "city": "Усть-Каменогорск",
+                "salary_from": 152830,
+                "salary_to": 183396,
+                "link": "https://api.hh.ru/vacancies/113310617?host=hh.ru"
+            },
+            {
+                "id": "112775363",
+                "title": "Руководитель по работе с внешними контактными центрами",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112775363?host=hh.ru"
+            },
+            {
+                "id": "112775362",
+                "title": "Руководитель по работе с внешними контактными центрами",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112775362?host=hh.ru"
+            },
+            {
+                "id": "111506975",
+                "title": "Продуктовый маркетолог",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111506975?host=hh.ru"
+            },
+            {
+                "id": "113270955",
+                "title": "Менеджер проектов в Антифрод-проект Яндекса",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113270955?host=hh.ru"
+            },
+            {
+                "id": "112787099",
+                "title": "Менеджер проектов B2С в Практикум",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112787099?host=hh.ru"
+            },
+            {
+                "id": "112747867",
+                "title": "Стратегический аналитик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112747867?host=hh.ru"
+            },
+            {
+                "id": "112756661",
+                "title": "Инженер по тестированию в Маркет",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112756661?host=hh.ru"
+            },
+            {
+                "id": "113154765",
+                "title": "Аккаунт-менеджер по работе с клиентами B2B в Практикум",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113154765?host=hh.ru"
+            },
+            {
+                "id": "112782971",
+                "title": "Ассистент IT подразделения",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112782971?host=hh.ru"
+            },
+            {
+                "id": "112882789",
+                "title": "Тимлид команды аналитики",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112882789?host=hh.ru"
+            },
+            {
+                "id": "112157020",
+                "title": "Специалист по документообороту",
+                "city": "Нижний Новгород",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112157020?host=hh.ru"
+            },
+            {
+                "id": "112775361",
+                "title": "Руководитель по работе с внешними контактными центрами",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112775361?host=hh.ru"
+            },
+            {
+                "id": "113156759",
+                "title": "Специалист службы поддержки (со знанием узбекского и русского языков)",
+                "city": "Самарканд",
+                "salary_from": 4740000,
+                "salary_to": 6636000,
+                "link": "https://api.hh.ru/vacancies/113156759?host=hh.ru"
+            },
+            {
+                "id": "111564579",
+                "title": "Младший менеджер по маркетингу категорий в Маркет",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111564579?host=hh.ru"
+            },
+            {
+                "id": "113140295",
+                "title": "Менеджер по развитию бизнеса",
+                "city": "Нижний Новгород",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113140295?host=hh.ru"
+            },
+            {
+                "id": "112795032",
+                "title": "Менеджер продукта в Смену",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112795032?host=hh.ru"
+            },
+            {
+                "id": "106504576",
+                "title": "Менеджер по работе с корпоративными клиентами",
+                "city": "Алматы",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106504576?host=hh.ru"
+            },
+            {
+                "id": "111849925",
+                "title": "Руководитель проектов",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111849925?host=hh.ru"
+            },
+            {
+                "id": "112761358",
+                "title": "Менеджер по работе с корпоративными клиентами",
+                "city": "Астана",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112761358?host=hh.ru"
+            },
+            {
+                "id": "113025613",
+                "title": "Менеджер по работе с клиентами B2B в Практикум",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113025613?host=hh.ru"
+            },
+            {
+                "id": "112874622",
+                "title": "Бухгалтер по расчету заработной платы",
+                "city": "Алматы",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112874622?host=hh.ru"
+            },
+            {
+                "id": "110813883",
+                "title": "Юрисконсульт в Доставку",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/110813883?host=hh.ru"
+            },
+            {
+                "id": "111748895",
+                "title": "Стажер-разработчик бэкенда",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111748895?host=hh.ru"
+            },
+            {
+                "id": "112067897",
+                "title": "Руководитель команды по развитию ключевых клиентов",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112067897?host=hh.ru"
+            },
+            {
+                "id": "113309907",
+                "title": "Специалист поддержки найма",
+                "city": "Павлодар",
+                "salary_from": 152830,
+                "salary_to": 183396,
+                "link": "https://api.hh.ru/vacancies/113309907?host=hh.ru"
+            },
+            {
+                "id": "112188754",
+                "title": "Руководитель В2В продаж",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112188754?host=hh.ru"
+            },
+            {
+                "id": "113153469",
+                "title": "Рекламный аналитик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113153469?host=hh.ru"
+            },
+            {
+                "id": "113156948",
+                "title": "Специалист службы поддержки (со знанием узбекского и русского языков)",
+                "city": "Навои",
+                "salary_from": 4740000,
+                "salary_to": 6636000,
+                "link": "https://api.hh.ru/vacancies/113156948?host=hh.ru"
+            },
+            {
+                "id": "111522273",
+                "title": "Менеджер по маркетинговым коммуникациям Кинопоиска",
+                "city": "Алматы",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111522273?host=hh.ru"
+            },
+            {
+                "id": "112850895",
+                "title": "Стажер-разработчик бэкенда",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112850895?host=hh.ru"
+            },
+            {
+                "id": "113157212",
+                "title": "Специалист службы поддержки (со знанием узбекского и русского языков)",
+                "city": "Наманган",
+                "salary_from": 4740000,
+                "salary_to": 6636000,
+                "link": "https://api.hh.ru/vacancies/113157212?host=hh.ru"
+            },
+            {
+                "id": "113309626",
+                "title": "Специалист поддержки найма",
+                "city": "Тараз",
+                "salary_from": 152830,
+                "salary_to": 183396,
+                "link": "https://api.hh.ru/vacancies/113309626?host=hh.ru"
+            },
+            {
+                "id": "112711565",
+                "title": "Менеджер проектов автоматизации",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112711565?host=hh.ru"
+            },
+            {
+                "id": "108672115",
+                "title": "Тайный покупатель в Яндекс",
+                "city": "Краснодар",
+                "salary_from": 40000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/108672115?host=hh.ru"
+            },
+            {
+                "id": "112715372",
+                "title": "Head of Media в Поиск",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112715372?host=hh.ru"
+            },
+            {
+                "id": "112860363",
+                "title": "CRM-менеджер в Авто.ру",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112860363?host=hh.ru"
+            },
+            {
+                "id": "113157317",
+                "title": "Специалист службы поддержки (со знанием узбекского и русского языков)",
+                "city": "Джизак",
+                "salary_from": 4740000,
+                "salary_to": 6636000,
+                "link": "https://api.hh.ru/vacancies/113157317?host=hh.ru"
+            },
+            {
+                "id": "113026503",
+                "title": "Специалист по работе с госорганами",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 55000,
+                "link": "https://api.hh.ru/vacancies/113026503?host=hh.ru"
+            },
+            {
+                "id": "113272920",
+                "title": "Менеджер проектов в Crowd",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113272920?host=hh.ru"
+            },
+            {
+                "id": "112761993",
+                "title": "Менеджер по работе с продуктом в команду клиентского сервиса",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112761993?host=hh.ru"
+            },
+            {
+                "id": "113000764",
+                "title": "Account Manager (TMT) в Yandex Cloud",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113000764?host=hh.ru"
+            },
+            {
+                "id": "112762027",
+                "title": "Менеджер по работе с продуктом в команду клиентского сервиса",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112762027?host=hh.ru"
+            },
+            {
+                "id": "108972226",
+                "title": "Менеджер по аренде недвижимости в Маркет",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/108972226?host=hh.ru"
+            },
+            {
+                "id": "112071176",
+                "title": "Финансовый бизнес-партнёр в Финтех",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112071176?host=hh.ru"
+            },
+            {
+                "id": "113027306",
+                "title": "Менеджер по работе с клиентами B2B в Практикум",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113027306?host=hh.ru"
+            },
+            {
+                "id": "113027148",
+                "title": "Специалист информационной безопасности",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": 51500,
+                "link": "https://api.hh.ru/vacancies/113027148?host=hh.ru"
+            },
+            {
+                "id": "113027380",
+                "title": "Эксперт по претензионной работе с клиентами",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 100000,
+                "link": "https://api.hh.ru/vacancies/113027380?host=hh.ru"
+            },
+            {
+                "id": "113147792",
+                "title": "Тимлид команды продаж B2C в Английский от Яндекс Практикум",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113147792?host=hh.ru"
+            },
+            {
+                "id": "112135571",
+                "title": "Специалист по документообороту в Маркет",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112135571?host=hh.ru"
+            },
+            {
+                "id": "112792953",
+                "title": "Ведущий специалист финансового мониторинга и выявления подозрительных операций в Финтех",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112792953?host=hh.ru"
+            },
+            {
+                "id": "111399036",
+                "title": "Менеджер проекта по строительству",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111399036?host=hh.ru"
+            },
+            {
+                "id": "109151899",
+                "title": "Аккаунт-менеджер по работе с партнёрами в Путешествия",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/109151899?host=hh.ru"
+            },
+            {
+                "id": "112764539",
+                "title": "Руководитель безопасности дата-центра",
+                "city": "Калуга",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112764539?host=hh.ru"
+            },
+            {
+                "id": "111307747",
+                "title": "Инженер технической поддержки в Yandex Cloud",
+                "city": "Москва",
+                "salary_from": 100000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111307747?host=hh.ru"
+            },
+            {
+                "id": "113018701",
+                "title": "Категорийный менеджер",
+                "city": "Краснодар",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113018701?host=hh.ru"
+            },
+            {
+                "id": "113018702",
+                "title": "Категорийный менеджер",
+                "city": "Сочи",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113018702?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "NCI": []
+    },
+    {
+        "СБЕР": [
+            {
+                "id": "113308260",
+                "title": "Стажер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113308260?host=hh.ru"
+            },
+            {
+                "id": "111772674",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Екатеринбург",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111772674?host=hh.ru"
+            },
+            {
+                "id": "111772436",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Екатеринбург",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111772436?host=hh.ru"
+            },
+            {
+                "id": "111774077",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Нижний Тагил",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111774077?host=hh.ru"
+            },
+            {
+                "id": "111773815",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Первоуральск",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111773815?host=hh.ru"
+            },
+            {
+                "id": "111779931",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Заречный (Свердловская область)",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111779931?host=hh.ru"
+            },
+            {
+                "id": "111772676",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Екатеринбург",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111772676?host=hh.ru"
+            },
+            {
+                "id": "111779429",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Новоуральск",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111779429?host=hh.ru"
+            },
+            {
+                "id": "111775892",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Каменск-Уральский",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111775892?host=hh.ru"
+            },
+            {
+                "id": "111778685",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Ревда (Свердловская область)",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111778685?host=hh.ru"
+            },
+            {
+                "id": "111780067",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Заречный (Свердловская область)",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111780067?host=hh.ru"
+            },
+            {
+                "id": "113300124",
+                "title": "Стажер в Центр исследований Сбера",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113300124?host=hh.ru"
+            },
+            {
+                "id": "111773225",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Верхняя Пышма",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111773225?host=hh.ru"
+            },
+            {
+                "id": "111779084",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Среднеуральск",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111779084?host=hh.ru"
+            },
+            {
+                "id": "111779083",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Среднеуральск",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111779083?host=hh.ru"
+            },
+            {
+                "id": "111438035",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Москва",
+                "salary_from": 129600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111438035?host=hh.ru"
+            },
+            {
+                "id": "111775894",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Каменск-Уральский",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111775894?host=hh.ru"
+            },
+            {
+                "id": "113270360",
+                "title": "Лидер кластера \"Профиль клиента\"",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113270360?host=hh.ru"
+            },
+            {
+                "id": "112341597",
+                "title": "Специалист по зарплатным проектам",
+                "city": "Ярославль",
+                "salary_from": 80000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112341597?host=hh.ru"
+            },
+            {
+                "id": "109679014",
+                "title": "Менеджер по работе с обращениями клиентов",
+                "city": "Нижний Новгород",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/109679014?host=hh.ru"
+            },
+            {
+                "id": "112879415",
+                "title": "Советник председателя",
+                "city": "Нижний Новгород",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112879415?host=hh.ru"
+            },
+            {
+                "id": "113117199",
+                "title": "Главный специалист управления экономической безопасности",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113117199?host=hh.ru"
+            },
+            {
+                "id": "112699361",
+                "title": "Старший менеджер по сервису (без продаж)",
+                "city": "Подольск (Московская область)",
+                "salary_from": 107000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112699361?host=hh.ru"
+            },
+            {
+                "id": "112511868",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Москва",
+                "salary_from": 129600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112511868?host=hh.ru"
+            },
+            {
+                "id": "93137521",
+                "title": "Специалист отдела телемаркетинга (удаленный формат работы)",
+                "city": "Астрахань",
+                "salary_from": 62600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/93137521?host=hh.ru"
+            },
+            {
+                "id": "109307009",
+                "title": "Специалист контактного центра (удаленная работа)",
+                "city": "Краснодар",
+                "salary_from": 56400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/109307009?host=hh.ru"
+            },
+            {
+                "id": "113119294",
+                "title": "Руководитель направления (стратегия развития технологий)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113119294?host=hh.ru"
+            },
+            {
+                "id": "105720287",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Брянск",
+                "salary_from": 77400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105720287?host=hh.ru"
+            },
+            {
+                "id": "113012152",
+                "title": "Младший аналитик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113012152?host=hh.ru"
+            },
+            {
+                "id": "110241504",
+                "title": "Специалист поддержки клиентов (работа из дома), г. Самара",
+                "city": "Самара",
+                "salary_from": 53000,
+                "salary_to": 74000,
+                "link": "https://api.hh.ru/vacancies/110241504?host=hh.ru"
+            },
+            {
+                "id": "111773589",
+                "title": "Специалист контактного центра(удаленный формат работы)",
+                "city": "Первоуральск",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111773589?host=hh.ru"
+            },
+            {
+                "id": "112384386",
+                "title": "Персональный водитель",
+                "city": "Екатеринбург",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112384386?host=hh.ru"
+            },
+            {
+                "id": "112385514",
+                "title": "Водитель",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112385514?host=hh.ru"
+            },
+            {
+                "id": "112668117",
+                "title": "Специалист по телемаркетингу (удаленный формат работы)",
+                "city": "Краснодар",
+                "salary_from": 43500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112668117?host=hh.ru"
+            },
+            {
+                "id": "113015938",
+                "title": "Специалист по обработке запросов Госорганов",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113015938?host=hh.ru"
+            },
+            {
+                "id": "110396493",
+                "title": "Специалист по разметке данных",
+                "city": "Волжский (Волгоградская область)",
+                "salary_from": 43000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/110396493?host=hh.ru"
+            },
+            {
+                "id": "112873563",
+                "title": "Графический дизайнер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112873563?host=hh.ru"
+            },
+            {
+                "id": "113175475",
+                "title": "Финансовый менеджер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113175475?host=hh.ru"
+            },
+            {
+                "id": "111426111",
+                "title": "Специалист отдела документооборот",
+                "city": "Москва",
+                "salary_from": 91250,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111426111?host=hh.ru"
+            },
+            {
+                "id": "111979502",
+                "title": "Старший клиентский менеджер",
+                "city": "Троицк (Москва)",
+                "salary_from": 129600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111979502?host=hh.ru"
+            },
+            {
+                "id": "112602030",
+                "title": "Инженер удостоверяющего центра",
+                "city": "Екатеринбург",
+                "salary_from": 67800,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112602030?host=hh.ru"
+            },
+            {
+                "id": "112702861",
+                "title": "Специалист по финансовому оздоровлению",
+                "city": "Челябинск",
+                "salary_from": 93700,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112702861?host=hh.ru"
+            },
+            {
+                "id": "113290711",
+                "title": "Data Scientist (проект GigaChat)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113290711?host=hh.ru"
+            },
+            {
+                "id": "113309741",
+                "title": "Инженер дежурной смены",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113309741?host=hh.ru"
+            },
+            {
+                "id": "107446172",
+                "title": "Дистанционный клиентский менеджер, г. Волгоград",
+                "city": "Волгоград",
+                "salary_from": 75200,
+                "salary_to": 96700,
+                "link": "https://api.hh.ru/vacancies/107446172?host=hh.ru"
+            },
+            {
+                "id": "107632364",
+                "title": "Клиентский менеджер удаленных продаж",
+                "city": "Новосибирск",
+                "salary_from": 87800,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/107632364?host=hh.ru"
+            },
+            {
+                "id": "107776593",
+                "title": "Оператор контактного центра (удаленная работа)",
+                "city": "Ставрополь",
+                "salary_from": 56400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/107776593?host=hh.ru"
+            },
+            {
+                "id": "109306823",
+                "title": "Специалист контактного центра (удаленная работа)",
+                "city": "Ростов-на-Дону",
+                "salary_from": 56400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/109306823?host=hh.ru"
+            },
+            {
+                "id": "111311900",
+                "title": "Старший клиентский менеджер (Центр)",
+                "city": "Санкт-Петербург",
+                "salary_from": 95700,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111311900?host=hh.ru"
+            },
+            {
+                "id": "112072637",
+                "title": "Дистанционный клиентский менеджер",
+                "city": "Воронеж",
+                "salary_from": 76000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112072637?host=hh.ru"
+            },
+            {
+                "id": "112586400",
+                "title": "Представитель банка",
+                "city": "Москва",
+                "salary_from": 129600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112586400?host=hh.ru"
+            },
+            {
+                "id": "112684500",
+                "title": "Руководитель направления",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112684500?host=hh.ru"
+            },
+            {
+                "id": "104235264",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Казань",
+                "salary_from": 72600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104235264?host=hh.ru"
+            },
+            {
+                "id": "112572001",
+                "title": "Старший специалист по телемаркетингу (удаленный формат работы)",
+                "city": "Тверь",
+                "salary_from": 43500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112572001?host=hh.ru"
+            },
+            {
+                "id": "102865543",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Омск",
+                "salary_from": 73200,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/102865543?host=hh.ru"
+            },
+            {
+                "id": "107486927",
+                "title": "Специалист по телемаркетингу (удаленный формат работы)",
+                "city": "Саратов",
+                "salary_from": 43500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/107486927?host=hh.ru"
+            },
+            {
+                "id": "108850813",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Тверь",
+                "salary_from": 77400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/108850813?host=hh.ru"
+            },
+            {
+                "id": "111349617",
+                "title": "Персональный менеджер Сбер Премьер",
+                "city": "Тула",
+                "salary_from": 104400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111349617?host=hh.ru"
+            },
+            {
+                "id": "111605306",
+                "title": "Менеджер образовательных программ",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111605306?host=hh.ru"
+            },
+            {
+                "id": "112302347",
+                "title": "Старший специалист отдела по работе с мошенничеством",
+                "city": "Воронеж",
+                "salary_from": 65000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112302347?host=hh.ru"
+            },
+            {
+                "id": "112677089",
+                "title": "Специалист по телемаркетингу",
+                "city": "Сочи",
+                "salary_from": 43500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112677089?host=hh.ru"
+            },
+            {
+                "id": "112870447",
+                "title": "Middle QA Engineer",
+                "city": "Ростов-на-Дону",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112870447?host=hh.ru"
+            },
+            {
+                "id": "112878041",
+                "title": "Middle QA Engineer (Sber ID)",
+                "city": "Нижний Новгород",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112878041?host=hh.ru"
+            },
+            {
+                "id": "113004833",
+                "title": "Стажер Data scientist (LLM в корпоративном кредитовании)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113004833?host=hh.ru"
+            },
+            {
+                "id": "112742649",
+                "title": "Рекрутер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112742649?host=hh.ru"
+            },
+            {
+                "id": "112138256",
+                "title": "Менеджер выездного сервиса",
+                "city": "Симферополь",
+                "salary_from": 69440,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112138256?host=hh.ru"
+            },
+            {
+                "id": "112162473",
+                "title": "Менеджер по внутренним коммуникациям",
+                "city": "Омск",
+                "salary_from": 79000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112162473?host=hh.ru"
+            },
+            {
+                "id": "112325502",
+                "title": "Cтажер (Research)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112325502?host=hh.ru"
+            },
+            {
+                "id": "112393003",
+                "title": "Ведущий специалист по взысканию",
+                "city": "Уфа",
+                "salary_from": 81500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112393003?host=hh.ru"
+            },
+            {
+                "id": "113290979",
+                "title": "Инкассатор",
+                "city": "Брянск",
+                "salary_from": 73500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113290979?host=hh.ru"
+            },
+            {
+                "id": "105850900",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Новосибирск",
+                "salary_from": 78700,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105850900?host=hh.ru"
+            },
+            {
+                "id": "106489521",
+                "title": "Специалист по телемаркетингу (удаленный формат работы)",
+                "city": "Саратов",
+                "salary_from": 43500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106489521?host=hh.ru"
+            },
+            {
+                "id": "110140208",
+                "title": "Аналитик данных",
+                "city": "Москва",
+                "salary_from": 210000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/110140208?host=hh.ru"
+            },
+            {
+                "id": "111462652",
+                "title": "Менеджер по работе с ключевыми клиентами малого бизнеса",
+                "city": "Красноярск",
+                "salary_from": 108700,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111462652?host=hh.ru"
+            },
+            {
+                "id": "111559786",
+                "title": "Персональный менеджер Сбер Премьер",
+                "city": "Рязань",
+                "salary_from": 104400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111559786?host=hh.ru"
+            },
+            {
+                "id": "112337780",
+                "title": "Водитель-инкассатор",
+                "city": "Тверь",
+                "salary_from": 78200,
+                "salary_to": 78200,
+                "link": "https://api.hh.ru/vacancies/112337780?host=hh.ru"
+            },
+            {
+                "id": "112395367",
+                "title": "Менеджер по сопровождению ипотеки",
+                "city": "Екатеринбург",
+                "salary_from": 61600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112395367?host=hh.ru"
+            },
+            {
+                "id": "113153398",
+                "title": "Секретарь руководителя (со знанием английского языка)",
+                "city": "Санкт-Петербург",
+                "salary_from": 80000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113153398?host=hh.ru"
+            },
+            {
+                "id": "110743876",
+                "title": "Специалист по обучению нейросетей",
+                "city": "Волгоград",
+                "salary_from": 43000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/110743876?host=hh.ru"
+            },
+            {
+                "id": "111615151",
+                "title": "Ведущий специалист по взысканию (Одинцово)",
+                "city": "Одинцово (Московская область)",
+                "salary_from": 132000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111615151?host=hh.ru"
+            },
+            {
+                "id": "113120640",
+                "title": "Middle Java developer",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113120640?host=hh.ru"
+            },
+            {
+                "id": "113158136",
+                "title": "Senior Frontend developer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113158136?host=hh.ru"
+            },
+            {
+                "id": "105760394",
+                "title": "Представитель банка",
+                "city": "Москва",
+                "salary_from": 129600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105760394?host=hh.ru"
+            },
+            {
+                "id": "106954513",
+                "title": "Специалист отделения банка",
+                "city": "Омск",
+                "salary_from": 66300,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106954513?host=hh.ru"
+            },
+            {
+                "id": "94855608",
+                "title": "Старший клиентский менеджер",
+                "city": "Краснодар",
+                "salary_from": 69500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/94855608?host=hh.ru"
+            },
+            {
+                "id": "111046854",
+                "title": "Водитель (персональный)",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111046854?host=hh.ru"
+            },
+            {
+                "id": "111564119",
+                "title": "Ведущий специалист в отдел автокредитования",
+                "city": "Воронеж",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111564119?host=hh.ru"
+            },
+            {
+                "id": "113288789",
+                "title": "ML-разработчик (проект GigaChat)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113288789?host=hh.ru"
+            },
+            {
+                "id": "105480772",
+                "title": "Старший специалист по работе с обращениями клиентов",
+                "city": "Нижний Новгород",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105480772?host=hh.ru"
+            },
+            {
+                "id": "110328527",
+                "title": "Специалист по кредитованию",
+                "city": "Ярославль",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/110328527?host=hh.ru"
+            },
+            {
+                "id": "112067371",
+                "title": "Специалист по зарплатным проектам",
+                "city": "Кострома",
+                "salary_from": 73000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112067371?host=hh.ru"
+            },
+            {
+                "id": "113244561",
+                "title": "Водитель-инкассатор",
+                "city": "Иркутск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/113244561?host=hh.ru"
+            },
+            {
+                "id": "109234249",
+                "title": "Менеджер по работе с ВИП клиентами, г. Волгоград",
+                "city": "Волгоград",
+                "salary_from": 75200,
+                "salary_to": 96700,
+                "link": "https://api.hh.ru/vacancies/109234249?host=hh.ru"
+            },
+            {
+                "id": "112119497",
+                "title": "Аналитик данных и бизнес процессов на направление аудит моделей",
+                "city": "Иркутск",
+                "salary_from": 70000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112119497?host=hh.ru"
+            },
+            {
+                "id": "105522627",
+                "title": "Клиентский менеджер отделения банка",
+                "city": "Набережные Челны",
+                "salary_from": 63900,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105522627?host=hh.ru"
+            },
+            {
+                "id": "108819416",
+                "title": "Ведущий специалист по взысканию",
+                "city": "Красноярск",
+                "salary_from": 98000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/108819416?host=hh.ru"
+            },
+            {
+                "id": "109195204",
+                "title": "Специалист контактного центра, г.Ульяновск",
+                "city": "Ульяновск",
+                "salary_from": 49500,
+                "salary_to": 59400,
+                "link": "https://api.hh.ru/vacancies/109195204?host=hh.ru"
+            },
+            {
+                "id": "111069165",
+                "title": "Специалист по телемаркетингу (удаленный формат работы)",
+                "city": "Великий Новгород",
+                "salary_from": 43500,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/111069165?host=hh.ru"
+            },
+            {
+                "id": "112168984",
+                "title": "Комьюнити-менеджер (стажер) в Штаб В2С",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112168984?host=hh.ru"
+            },
+            {
+                "id": "112298276",
+                "title": "Ведущий специалист по взысканию",
+                "city": "Екатеринбург",
+                "salary_from": 96000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/112298276?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "СпектрТехСервис": []
+    }
+]
