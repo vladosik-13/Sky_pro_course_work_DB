@@ -1,3 +1,5 @@
+import requests
+
 from class_DBManager import DBManager
 from hh_class import HeadHunterParser
 from json_saver_class import JSONSaver
@@ -9,7 +11,14 @@ def collecting_vacancies(user_input):
     """
     parser = HeadHunterParser()
     search_query = user_input
-    datas = parser.get_vacancies(search_query)
+    try:
+        datas = parser.get_vacancies(search_query)
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred: {http_err}")
+        return []
+    except Exception as err:
+        print(f"Other error occurred: {err}")
+        return []
     return datas
 
 
@@ -32,6 +41,36 @@ def creating_dictionary_list(other):
             }
         )
     return vacancies_list
+
+
+def get_employer_info(parser, employer_id):
+    """
+    Функция для получения информации о работодателе.
+    """
+    try:
+        employer_info = parser.get_employer(employer_id)
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred while getting employer info for ID {employer_id}: {http_err}")
+        return None
+    except Exception as err:
+        print(f"Other error occurred while getting employer info for ID {employer_id}: {err}")
+        return None
+    return employer_info
+
+
+def get_employer_vacancies(parser, employer_id):
+    """
+    Функция для получения вакансий работодателя.
+    """
+    try:
+        employer_vacancies = parser.get_employer_vacancies(employer_id)
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred while getting vacancies for employer ID {employer_id}: {http_err}")
+        return []
+    except Exception as err:
+        print(f"Other error occurred while getting vacancies for employer ID {employer_id}: {err}")
+        return []
+    return employer_vacancies
 
 
 def get_print(input_user):
@@ -68,3 +107,18 @@ def saver_json(other):
     """
     saver = JSONSaver()
     saver.insert(other)
+
+
+def collecting_employers_vacancies(employer_ids):
+    parser = HeadHunterParser()
+    vacancies_list = []
+    for employer_id in employer_ids:
+        employer_info = get_employer_info(parser, employer_id)
+        if employer_info and "name" in employer_info:
+            employer_name = employer_info["name"]
+            employer_vacancies = get_employer_vacancies(parser, employer_id)
+            vacancies = creating_dictionary_list(employer_vacancies)
+            vacancies_list.append({employer_name: vacancies})
+        else:
+            print(f"Не удалось получить информацию о работодателе с ID {employer_id}.")
+    return vacancies_list

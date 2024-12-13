@@ -1,25 +1,17 @@
 from connect_sql import connection_to_data
-from utils import collecting_vacancies, creating_dictionary_list, get_print, saver_json
+from utils import collecting_employers_vacancies, saver_json, get_print
 
 if __name__ == "__main__":
-    list_of_company = [
-        "IT-специалист",
-        "Frontend developer (офис)",
-        "Frontend-разработчик",
-        "Python-разработчик (Django)",
-        "Project manager IT (Middle)",
-        "Программист Python",
-        "Начинающий IT специалист",
-        "Системный администратор",
-        "Junior IT специалист / системный аналитик /" "программист Трудоустройство",
-        "Норникель Спутник",
-    ]  # Список компаний
+    list_of_employers = [
+        "1740",  # Skyeng
+        "1",     # Яндекс
+        "3529",  # Ozon
+        "3522",  # Сбербанк
+        "1879467",  # Норникель Спутник
+        # Добавьте остальные работодатели по их ID
+    ]  # Список работодателей по их ID
 
-    vacancies_list = []
-    for search_query in list_of_company:
-        coll_vacancies = collecting_vacancies(search_query)
-        vacancies_list_item = {search_query: creating_dictionary_list(coll_vacancies)}
-        vacancies_list.append(vacancies_list_item)
+    vacancies_list = collecting_employers_vacancies(list_of_employers)
 
     saver_json(vacancies_list)
     connection_to_data(vacancies_list)
